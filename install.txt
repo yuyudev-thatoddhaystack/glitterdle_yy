@@ -1,0 +1,5 @@
+Charset,UTF-8
+type,shell
+name,Needlework (Crotchet)
+directory,needlework_crotchet_yy
+accept,Needle
