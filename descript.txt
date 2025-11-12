@@ -1,7 +1,7 @@
 charset,UTF-8
 type,shell
 
-name,Needlework (Crotchet)
+name,Glitterdle
 craftman,Vita/yuyudev
 craftmanurl,https://thatoddhaystack.neocities.org/ukagaka/
 
@@ -14,20 +14,14 @@ menu.background.bitmap.filename,menu_background.png
 menu.foreground.alignment,lefttop + repeatx + repeaty
 menu.background.alignment,lefttop + repeatx + repeaty
 
-menu.background.font.color.r,20
-menu.background.font.color.g,20
-menu.background.font.color.b,20
+menu.background.font.color.r,255
+menu.background.font.color.g,255
+menu.background.font.color.b,255
+
+menu.foreground.font.color.r,255
+menu.foreground.font.color.g,255
+menu.foreground.font.color.b,255
+
 
 seriko.sticky-window,0,1,2
 
-sakura.bindoption0.group,Variety,mustselect
-sakura.bindgroup0.name,Variety,grei
-sakura.bindgroup0.default,1
-sakura.bindgroup1.name,Variety,reb
-sakura.bindgroup2.name,Variety,orang
-sakura.bindgroup3.name,Variety,yelo
-sakura.bindgroup4.name,Variety,greeb
-sakura.bindgroup5.name,Variety,teol
-sakura.bindgroup6.name,Variety,bloo
-sakura.bindgroup7.name,Variety,ourple
-sakura.bindgroup8.name,Variety,pimk
